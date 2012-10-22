@@ -10,4 +10,4 @@ git commit - m"teste shell"   //comitA (seaparecer >> aperta cntrl+c para quebra
 
 git push - envia para o servidor
 
-alteração teste fdfg
+alteração teste asd
