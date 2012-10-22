@@ -9,3 +9,5 @@ git status
 git commit - m"teste shell"   //comitA (seaparecer >> aperta cntrl+c para quebrar e digita novamente)
 
 git push - envia para o servidor
+
+alteração teste
